@@ -1,5 +1,8 @@
 // swift-tools-version: 5.7
 
+//  Copyright © 2023 Kenneth Laskoski
+//  SPDX-License-Identifier: Apache-2.0
+
 import PackageDescription
 
 let package = Package(
