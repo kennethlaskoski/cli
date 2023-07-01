@@ -1,4 +1,4 @@
-// swift-tools-version: 5.6
+// swift-tools-version: 5.7
 
 import PackageDescription
 
@@ -12,7 +12,7 @@ let package = Package(
         .executableTarget(
             name: "kl",
             dependencies: [
-                .product(name: "KL", package: "KL"),
+                .product(name: "KL", package: "KL", moduleAliases: ["KL": "Ken"]),
                 .product(name: "ArgumentParser", package: "swift-argument-parser"),
             ],
             path: "Sources"),
