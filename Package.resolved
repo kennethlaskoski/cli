@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "kl",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kennethlaskoski/KL.git",
+      "state" : {
+        "revision" : "73142b3f3c7864cf41978036781ebfca5bbe8d2d",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "swift-argument-parser",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-argument-parser.git",
+      "state" : {
+        "revision" : "fee6933f37fde9a5e12a1e4aeaa93fe60116ff2a",
+        "version" : "1.2.2"
+      }
+    }
+  ],
+  "version" : 2
+}
