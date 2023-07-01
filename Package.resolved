@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/kennethlaskoski/KL.git",
       "state" : {
-        "revision" : "73142b3f3c7864cf41978036781ebfca5bbe8d2d",
-        "version" : "1.0.0"
+        "branch" : "main",
+        "revision" : "fc1090fdf3161d0bbed7a13cb22caae46eda65f4"
       }
     },
     {
