@@ -11,5 +11,6 @@ import ArgumentParser
 struct kl: ParsableCommand {
     mutating func run() throws {
         print(KL.name)
+        print(KL.email)
     }
 }
